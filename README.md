@@ -198,6 +198,6 @@ Model Persistence	pickle
  Expand the dataset with more recent and diverse listings
 
 
-quikr_car.csv
+
 
 CSV
